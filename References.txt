@@ -1,3 +1,4 @@
 
 https://deepai.org/publication/hypertime-implicit-neural-representation-for-time-series
 
+https://towardsdatascience.com/synthetic-time-series-data-a-gan-approach-869a984f2239
